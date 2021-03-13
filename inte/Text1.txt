@@ -1,0 +1,2 @@
+Changed
+Both MD5 stands for Message Digest and SHA1 stands for Secure Hash Algorithm square measure the hashing algorithms wherever The speed of MD5 is fast in comparison of SHA1’s speed.
